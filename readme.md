@@ -1,6 +1,6 @@
   # SinglyJob.com Bugtracker
 ### Disclaimer 
-Bitte melde nur Fehler, die auf der SinglyJob.com Webseite auftreten. Für Fehler auf unserem [Discord-Server](https://discord.gg/8mYZaKUZSu) oder ähnliches nutze unsere [Email](kontakt@singlyjob.com) oder mache auf unserem [Discord-Server](https://discord.gg/8mYZaKUZSu) einen Ticket auf.
+Bitte melde nur Fehler, die auf der SinglyJob.com Webseite auftreten. Für Fehler auf unserem [Discord-Server](https://discord.gg/8mYZaKUZSu) oder ähnliches nutze unsere [Email](mailto:kontakt@singlyjob.com) oder mache auf unserem [Discord-Server](https://discord.gg/8mYZaKUZSu) einen Ticket auf.
 ***WICHTIG:** Bitte achte darauf, das du keine Privaten Daten mit sendest. sende nur ggf. zensierte Screenshots!*
 
 
