@@ -15,6 +15,7 @@ Bitte melde nur Fehler, die auf der SinglyJob.com Webseite auftreten. Für Fehle
 - Weitere Informationen die Hilfreich sein könnten
 <hr>
 
+#### Um einen Fehler zu erstellen Öffne einfach ein [Issue](https://github.com/SinglyJob/Website-Bugs/issues)
 
 
 ### Danke für deine hilfe SinglyJob noch besser zumachen!
